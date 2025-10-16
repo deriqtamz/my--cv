@@ -1,0 +1,12 @@
+:root {
+    --maroon-primary:800000;
+    --maroon-dark:#5a0000;
+    --maroon-light:#a62a2a;
+    --white:#ffffff;
+    --off-white:#f8f8f8;                 
+}
+body{
+    font-family:'georgia','time new roman',serif;
+    color:#333;
+    background-color:lightblue;
+}
